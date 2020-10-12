@@ -1,5 +1,5 @@
-class GustoHome < Formula
-  desc "Spider Stuff"
+class SpiderStuff < Formula
+  desc "SpiderStuff"
   homepage "https://example.com/TBD"
   # bump the version so that brew picks up the changes.
   url "git@github.com:ivanfrolovmd/brew-example.git", :using => :git, :branch => "master", :revision => "HEAD"
